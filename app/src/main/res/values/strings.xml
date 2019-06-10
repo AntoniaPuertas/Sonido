@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Sonido</string>
+    <string name="prueba_de_sonido">Prueba de sonido</string>
+    <string name="ganar">Ganar</string>
+    <string name="perder">Perder</string>
+    <string name="error">Error</string>
+</resources>
